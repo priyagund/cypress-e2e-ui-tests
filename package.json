@@ -1,0 +1,16 @@
+{
+  "name": "cypress-new-tests",
+  "version": "1.0.0",
+  "description": "Step 1: Create a New Project 1. Open IntelliJ and create a new empty Node.js project 2. Open the terminal and run below command it will crate package.json file    ` npm init -y`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^22.0.1",
+    "cypress": "^14.1.0"
+  }
+}
